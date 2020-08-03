@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Landing-page-using-react/static/css/main.7bbcd2d6.chunk.css",
+    "main.js": "/Landing-page-using-react/static/js/main.d593a540.chunk.js",
+    "main.js.map": "/Landing-page-using-react/static/js/main.d593a540.chunk.js.map",
+    "runtime-main.js": "/Landing-page-using-react/static/js/runtime-main.55c25ed4.js",
+    "runtime-main.js.map": "/Landing-page-using-react/static/js/runtime-main.55c25ed4.js.map",
+    "static/css/2.2f9e766a.chunk.css": "/Landing-page-using-react/static/css/2.2f9e766a.chunk.css",
+    "static/js/2.a9fd99d1.chunk.js": "/Landing-page-using-react/static/js/2.a9fd99d1.chunk.js",
+    "static/js/2.a9fd99d1.chunk.js.map": "/Landing-page-using-react/static/js/2.a9fd99d1.chunk.js.map",
+    "index.html": "/Landing-page-using-react/index.html",
+    "precache-manifest.b52301a7313393122565751f458a12d2.js": "/Landing-page-using-react/precache-manifest.b52301a7313393122565751f458a12d2.js",
+    "service-worker.js": "/Landing-page-using-react/service-worker.js",
+    "static/css/2.2f9e766a.chunk.css.map": "/Landing-page-using-react/static/css/2.2f9e766a.chunk.css.map",
+    "static/css/main.7bbcd2d6.chunk.css.map": "/Landing-page-using-react/static/css/main.7bbcd2d6.chunk.css.map",
+    "static/js/2.a9fd99d1.chunk.js.LICENSE.txt": "/Landing-page-using-react/static/js/2.a9fd99d1.chunk.js.LICENSE.txt",
+    "static/media/destop.jpg": "/Landing-page-using-react/static/media/destop.41969b27.jpg",
+    "static/media/mobile.jpg": "/Landing-page-using-react/static/media/mobile.4fda6694.jpg",
+    "static/media/index.css": "/Landing-page-using-react/static/media/roboto-latin-900-normal.bb1e4dc6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55c25ed4.js",
+    "static/css/2.2f9e766a.chunk.css",
+    "static/js/2.a9fd99d1.chunk.js",
+    "static/css/main.7bbcd2d6.chunk.css",
+    "static/js/main.d593a540.chunk.js"
+  ]
+}
