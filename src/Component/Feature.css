@@ -1,0 +1,42 @@
+.site-section   {
+  padding-bottom: 50px;
+  padding-top: 50px;
+  
+}
+.site-section-secondary   {
+  background: #EFEFEF;
+}
+.site-section-inside   {
+  width: 70%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.section-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.section-header h2  {
+  font-size: 30px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 300;
+  color: #777;
+}
+
+.feature-box   {
+  display: inline-block;
+  width: 27%;
+  padding: 20px 30px;
+}
+.feature-box img  {
+  margin-bottom: 12px;
+  width: 80px;
+}
+.feature-box h5   {
+  font-size: 20px;
+  color: #999;
+  text-transform: uppercase;
+  font-weight: 300;
+  letter-spacing: 2px;
+  margin: 0;
+}
